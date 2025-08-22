@@ -1,6 +1,6 @@
-# 📺 Netflix Clone (HTML, CSS, JavaScript)
+# 📺 Netflix Clone (HTML, CSS)
 
-A simple Netflix homepage clone built using only HTML, CSS, and JavaScript. This project is designed to practice front-end development skills without using any frameworks or libraries.
+A simple Netflix homepage clone built using only HTML, CSS. This project is designed to practice front-end development skills without using any frameworks or libraries.
 
 ## 🔥 Features
 - Responsive layout inspired by Netflix UI
@@ -11,7 +11,7 @@ A simple Netflix homepage clone built using only HTML, CSS, and JavaScript. This
 ## 🚀 Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+
 
 ## 📂 How to Use
 1. Clone the repository  
